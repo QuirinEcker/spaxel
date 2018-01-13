@@ -1,0 +1,57 @@
+body{
+	background-color: #C0C0C0;
+	font-family: Arial;
+}
+
+
+h1{
+	background-color: black;
+	color: white;
+	padding: 50px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 300%;
+}
+
+.MainTopic{
+	background-color: white;
+	width: 400px;
+	padding: 20px;
+	border-top: 10px solid black;
+	border-radius: 0px 0px 20px 20px;
+	float: left;
+}
+
+.MainTopicText{
+	padding: 10px;
+	border: 1px solid black;
+}
+
+a:link{
+	color: #ABECFC;
+}
+
+.SideText1{
+	background-color: #7CDCF8;
+	padding: 20px 10px;
+	width: 300px;
+	margin: 0px;
+}
+
+.SideText2{
+	background-color: #7CDCF8;
+	padding: 20px 10px;
+	width: 300px;
+}
+
+.SideText{
+	float: left;
+	margin: 0px 0px 0px 20px;
+}
+
+
+
+
+
+
+
